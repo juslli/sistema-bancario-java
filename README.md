@@ -1,6 +1,6 @@
 # 🏦 Sistema Bancário em Java
 
-Sistema bancário simples desenvolvido em Java puro com orientação a objetos.
+Sistema bancário desenvolvido em Java puro com orientação a objetos.
 
 ## 📋 Funcionalidades
 
@@ -13,10 +13,7 @@ Sistema bancário simples desenvolvido em Java puro com orientação a objetos.
 ## 🚀 Como executar
 
 1. Clone o repositório
-```bash
-git clone https://github.com/juslli/sistema-bancario-java.git
-```
-2. Abra o projeto no IntelliJ IDEA
+2. Abra no IntelliJ IDEA
 3. Execute o arquivo `Main.java`
 
 ## 🛠️ Tecnologias
